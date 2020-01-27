@@ -11,6 +11,6 @@ class MerchantController {
 
     @GetMapping("/notification")
     fun getnotification() =
-            NotificationDataModel(data = "data")
+            NotificationDataModel(data = "data-data")
 
 }
