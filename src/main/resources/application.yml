@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: Mock MAPI
+
+management:
+  endpoints:
+    web:
+      base-path: /
